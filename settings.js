@@ -20,30 +20,34 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is AMIYA RED DRAGON🔥
+My Creator is Amiya😎 
+.menu ගහල මෙනුව ගන්න 
+.play ගහල සින්දු ගන්න
+https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ
+මේ චැනල් එක subscribe කරල බොට්ට උදව්වක් දෙන්න` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+18322109598'] //Owner number in aive msg
+global.premium = ['Amiya'] //Owner Number info
+global.ownernomer = '+18322109598' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '😎𝗞.𝗗.𝗔𝗺𝗶𝘆𝗮' //Owner Name
+global.botname = ' ☬AMIYA༒RED༒DRAGON' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '🤭මෙතන ටච් කරන්න📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬AMIYA༒RED༒DRAGON࿐' //Bot Pacage Name
+global.author = '😎𝙆.𝗗.𝗔𝗺𝗶𝘆𝗮❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://github.com/TechwithAmee1' //Github Account!
+global.footer = '©_Amiya.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
